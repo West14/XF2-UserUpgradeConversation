@@ -40,7 +40,7 @@ class Upgrade extends XFCP_Upgrade
                     : \XF::phrase('never')->render()
             ])->render()
         );
-        $creator->validate($errors);
+        
         $creator->save();
     }
 }

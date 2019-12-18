@@ -1,0 +1,38 @@
+{
+    "option.wUucStarterUser.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "5101c04f3e88a6232e91345a06d781cd"
+    },
+    "option_explain.wUucStarterUser.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "option_group.wUserUpgradeConversation.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "e2e5a3ab49d62fde9bffc07e9d626700"
+    },
+    "option_group_description.wUserUpgradeConversation.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "w_uuc_conversation_message.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "651de2fcc6fcb35548cbf84ac0a338ad"
+    },
+    "w_uuc_conversation_title.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "a7b601e35db9ebd930c232783371bf19"
+    }
+}

@@ -4,11 +4,13 @@
     "description": "",
     "version_id": 1000010,
     "version_string": "1.0.0 Alpha",
-    "dev": "",
-    "dev_url": "",
+    "dev": "West",
+    "dev_url": "https://t.me/West99",
     "faq_url": "",
     "support_url": "",
-    "extra_urls": [],
-    "require": [],
+    "extra_urls": {
+        "XFI": "https://xenforo.info/members/22547"
+    },
+    "require": {},
     "icon": ""
 }
